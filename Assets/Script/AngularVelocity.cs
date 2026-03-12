@@ -22,7 +22,7 @@ public class AngularVelocity : MonoBehaviour
         }
         else
         {
-            rb.angularVelocity = Vector3.zero; // stop rotating immediately
+            rb.angularVelocity = Vector3.zero; 
         }
 
     }
